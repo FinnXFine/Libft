@@ -13,7 +13,6 @@ This project re-implements essential standard library functions and introduces u
 * [Compilation](#compilation)
 * [Usage](#usage)
 * [Bonus Part](#bonus-part)
-* [Testing](#testing)
 * [Author](#author)
 
 ---
