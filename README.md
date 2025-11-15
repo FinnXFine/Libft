@@ -49,19 +49,14 @@ Everything is written in **pure C**, following strict coding standards and desig
 
 ## 📁 Project Structure
 
-```
-|-- libft/
-|   |-- src/
-|   |   |-- ctype/*.c
-|   |   |-- string/*.c
-|   |   |-- memory/*.c
-|   |   |-- list/*.c (bonus)
-|   |
-|   |-- includes/
-|   |   |-- libft.h
-|   |
-|   |-- Makefile
-```
+* Organized into modules:
+
+  * **ctype** functions
+  * **string** functions
+  * **memory** functions
+  * **list** functions (bonus)
+* Includes folder with `libft.h`
+* Makefile for compilation
 
 ---
 
@@ -134,27 +129,11 @@ Includes:
 
 ---
 
-## 🧪 Testing
-
-You can use:
-
-* **Tripouille’s tester**
-* **Francinette**
-* **libft-unit-test**
-
-Clone tester:
-
-```
-git clone https://github.com/Tripouille/libftTester.git
-cd libftTester
-make && ./libftTester
-```
-
 ---
 
 ## 👤 Author
 
-**Redouane Hssayn (Finn)**
+**Redouane Hssayn (Finn)/(rhssayn)**
 Student at **1337 - 42 Network**
 
 If you like the project, feel free to ⭐ it on GitHub!
